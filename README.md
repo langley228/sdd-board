@@ -37,6 +37,8 @@ OpenSpec / Git / 外部系統後續流程
 - [目錄結構藍圖](docs/project-structure.md)
 - [專案設定模型](docs/project-settings.md)
 - [技術候選](docs/tech-options.md)
+- [畫面藍圖](docs/ui-blueprint.md)
+- [資料模型概覽](docs/data-model-overview.md)
 - [程式規範](docs/coding-standards.md)
 - [測試原則](docs/testing-policy.md)
 - [安全原則](docs/security-policy.md)
