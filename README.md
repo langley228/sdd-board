@@ -33,6 +33,8 @@ OpenSpec / Git / 外部系統後續流程
 - [產品概覽](docs/product-overview.md)
 - [架構概覽](docs/architecture-overview.md)
 - [開發流程](docs/development-flow.md)
+- [模組規劃](docs/module-plan.md)
+- [目錄結構藍圖](docs/project-structure.md)
 - [技術候選](docs/tech-options.md)
 - [程式規範](docs/coding-standards.md)
 
