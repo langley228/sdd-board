@@ -39,6 +39,8 @@ OpenSpec / Git / 外部系統後續流程
 - [技術候選](docs/tech-options.md)
 - [程式規範](docs/coding-standards.md)
 - [測試原則](docs/testing-policy.md)
+- [安全原則](docs/security-policy.md)
+- [Adapter 設計準則](docs/adapter-guidelines.md)
 
 ## 開發約定
 
