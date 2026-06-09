@@ -36,7 +36,7 @@ OpenSpec / Git / 外部系統後續流程
 這個階段聚焦於：
 
 - 想法收斂
-- proposal / design / tasks 草稿
+- proposal / design / spec / tasks 草稿
 - AI 問答、補全、摘要
 
 ### 3. 人工確認定案
@@ -45,6 +45,7 @@ OpenSpec / Git / 外部系統後續流程
 
 - proposal 是否成立
 - design 是否接受
+- spec 是否已具備第一階段所需內容
 - tasks 是否可執行
 
 ### 4. 開票

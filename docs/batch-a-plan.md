@@ -79,6 +79,7 @@ Batch A 的目標不是把整個平台做滿，而是先把產品最核心的主
 
 - `proposal`
 - `design`
+- `spec`
 - `tasks`
 
 ### 成功條件
@@ -86,6 +87,12 @@ Batch A 的目標不是把整個平台做滿，而是先把產品最核心的主
 - 使用者可在 room 中輸入內容
 - 可與 AI 互動
 - 討論結果可沉澱成 draft
+
+### spec 在 Phase 1 的定位
+
+- `spec` 先作為 draft 的一部分存在於 room 中
+- Phase 1 先不把完整 OpenSpec 驗證與後續流程納入主線
+- `spec` 相關更完整的流程，留待後續 `sc-011-openspec-flow-bridge`
 
 ## 3. sc-003-decision-gate
 
@@ -103,6 +110,7 @@ Batch A 的目標不是把整個平台做滿，而是先把產品最核心的主
 
 - 先採單一步驟確認
 - 暫不拆 proposal / design / tasks 多段審批
+- spec 先納入整體內容一併確認，不單獨拆成獨立審批流程
 
 ### 成功條件
 
