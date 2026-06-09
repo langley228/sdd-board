@@ -45,6 +45,8 @@ OpenSpec / Git / 外部系統後續流程
 - [階段性路線圖](docs/roadmap.md)
 - [貢獻流程](docs/contributing.md)
 - [API 設計約定](docs/api-conventions.md)
+- [非目標](docs/non-goals.md)
+- [待定問題](docs/open-questions.md)
 - [程式規範](docs/coding-standards.md)
 - [測試原則](docs/testing-policy.md)
 - [安全原則](docs/security-policy.md)
