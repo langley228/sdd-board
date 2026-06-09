@@ -27,6 +27,7 @@
 - [專案設定模型](project-settings.md)
 - [外部整合矩陣](integration-matrix.md)
 - [自動化流程概覽](automation-flow.md)
+- [Change 規劃](change-plan.md)
 - [Provider 落地順序](provider-rollout.md)
 - [Adapter 設計準則](adapter-guidelines.md)
 
