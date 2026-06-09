@@ -1,0 +1,29 @@
+name: Create PR as bot
+
+on:
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Source branch'
+        required: true
+      title:
+        description: 'PR title'
+        required: true
+
+jobs:
+  create-pr:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr create \
+            --base develop \
+            --head "${{ inputs.branch }}" \
+            --title "${{ inputs.title }}" \
+            --body "由 AI Agent 自動實作"
