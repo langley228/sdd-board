@@ -29,6 +29,10 @@
 - [自動化流程概覽](automation-flow.md)
 - [Change 規劃](change-plan.md)
 - [Batch A 規劃](batch-a-plan.md)
+- [Batch B 規劃](batch-b-plan.md)
+- [Batch C 規劃](batch-c-plan.md)
+- [Batch D 規劃](batch-d-plan.md)
+- [第一階段待決策清單](phase-1-decisions.md)
 - [Provider 落地順序](provider-rollout.md)
 - [Adapter 設計準則](adapter-guidelines.md)
 
