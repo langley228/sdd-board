@@ -30,6 +30,7 @@ OpenSpec / Git / 外部系統後續流程
 
 ## 文件
 
+- [文件索引](docs/index.md)
 - [產品概覽](docs/product-overview.md)
 - [架構概覽](docs/architecture-overview.md)
 - [開發流程](docs/development-flow.md)
@@ -47,6 +48,12 @@ OpenSpec / Git / 外部系統後續流程
 - [API 設計約定](docs/api-conventions.md)
 - [非目標](docs/non-goals.md)
 - [待定問題](docs/open-questions.md)
+- [資料流概覽](docs/data-flow.md)
+- [風險清單](docs/risk-register.md)
+- [領域邊界](docs/domain-boundaries.md)
+- [Editor Contract](docs/editor-contract.md)
+- [Provider 落地順序](docs/provider-rollout.md)
+- [實作前檢查表](docs/implementation-readiness.md)
 - [程式規範](docs/coding-standards.md)
 - [測試原則](docs/testing-policy.md)
 - [安全原則](docs/security-policy.md)
