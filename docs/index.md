@@ -28,6 +28,7 @@
 - [外部整合矩陣](integration-matrix.md)
 - [自動化流程概覽](automation-flow.md)
 - [Change 規劃](change-plan.md)
+- [Batch A 規劃](batch-a-plan.md)
 - [Provider 落地順序](provider-rollout.md)
 - [Adapter 設計準則](adapter-guidelines.md)
 

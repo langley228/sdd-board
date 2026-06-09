@@ -43,6 +43,7 @@ OpenSpec / Git / 外部系統後續流程
 - [外部整合矩陣](docs/integration-matrix.md)
 - [自動化流程概覽](docs/automation-flow.md)
 - [Change 規劃](docs/change-plan.md)
+- [Batch A 規劃](docs/batch-a-plan.md)
 - [名詞定義](docs/glossary.md)
 - [階段性路線圖](docs/roadmap.md)
 - [貢獻流程](docs/contributing.md)
