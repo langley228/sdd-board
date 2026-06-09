@@ -43,6 +43,8 @@ OpenSpec / Git / 外部系統後續流程
 - [自動化流程概覽](docs/automation-flow.md)
 - [名詞定義](docs/glossary.md)
 - [階段性路線圖](docs/roadmap.md)
+- [貢獻流程](docs/contributing.md)
+- [API 設計約定](docs/api-conventions.md)
 - [程式規範](docs/coding-standards.md)
 - [測試原則](docs/testing-policy.md)
 - [安全原則](docs/security-policy.md)
