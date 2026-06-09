@@ -83,6 +83,12 @@ Project Settings
 - `defaultBranch`
 - `authRef`
 
+### 第一版原則
+
+- repository 設定在建立 project 時即先提供最小上下文
+- 後續可在 project settings 中修改
+- ticket 建立後直接沿用 project 的 repository context，不在 ticket 結果頁重新決定
+
 ## 4. AI Settings
 
 ### 目的
@@ -95,6 +101,8 @@ Project Settings
 - `defaultChatProvider`
 - `defaultGenerationProvider`
 - `defaultAutocompleteProvider`
+- `enabledModels`
+- `defaultModelMapping`
 - `modelMapping`
 - `promptPolicy`
 - `maskingPolicy`
@@ -105,6 +113,8 @@ Project Settings
 - project 可同時配置多個 AI provider
 - 不同 AI 能力可對應不同 provider
 - AI 設定需與安全邊界一起考慮
+- project settings 負責定義 AI 的可用範圍與預設值
+- 後續各階段仍可由使用者在 project 允許的範圍內，自行選擇要使用的 provider / model
 
 ## 5. Automation Settings
 

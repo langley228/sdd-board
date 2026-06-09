@@ -29,6 +29,8 @@ OpenSpec / Git / 外部系統後續流程
 - AI 設定
 - automation 規則
 
+repository 與 automation 的最小設定應在建立 project 時即存在，後續可再修改。
+
 ### 2. 多人互動發想
 
 在 room 中由人與 AI 一起討論、整理、補盲點、生成草稿。
@@ -70,6 +72,8 @@ ticket 產生後，才進入：
 - OpenSpec 驗證
 - Git 流程
 - automation
+
+其中 repository context 應沿用既有 project settings，而不是在 ticket 建立後才第一次決定。
 
 ## 流程原則
 

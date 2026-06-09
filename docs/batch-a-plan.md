@@ -54,12 +54,17 @@ Batch A 的目標不是把整個平台做滿，而是先把產品最核心的主
 - `projectKey`
 - `defaultTicketProvider`
 - `defaultAiProvider`
+- `defaultRepositoryProvider`
+- `defaultRepositoryName`
+- `autoCreateTicket`
+- `autoRunPostTicketFlow`
 - `description`（可選）
 
 ### 成功條件
 
 - 可以進入某一個 project 的工作空間
 - project 能提供後續 room / decision / ticket 的上下文
+- project 在第一版即具備最小 repository 與 automation 上下文，且後續可修改
 
 ## 2. sc-002-ideation-room
 
@@ -133,6 +138,7 @@ Batch A 的目標不是把整個平台做滿，而是先把產品最核心的主
 
 - 先只落一個 ticket provider
 - 先做 create ticket，不急著做完整 sync
+- repository context 由 project settings 預先提供，不在 ticket 建立後臨時決定
 
 ### 成功條件
 
@@ -156,6 +162,7 @@ Project
 
 ```text
 Project List / Create Project
+  -> Project Settings（含最小 repository / automation 設定）
   -> Project Workspace
   -> Ideation Room
   -> Decision Review

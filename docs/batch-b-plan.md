@@ -46,6 +46,11 @@ Batch B 的目標不是擴大產品主流程，而是補強 Batch A 的核心體
 - `generateDraft`
 - `summarize`
 
+### 第一版使用原則
+
+- project settings 先定義可用 AI provider / model 與預設值
+- room 等階段允許使用者在允許範圍內切換本次使用的 provider / model
+
 ### 成功條件
 
 - AI 可透過 project 設定決定是否啟用

@@ -92,6 +92,11 @@ AI Systems
 - 單一 provider SDK 介面
 - 第三方 response 形狀
 
+### 使用原則
+
+- AI provider 與 model 的可用範圍由 project settings 決定
+- 在 room、decision 或後續階段中，使用者可於允許範圍內自行選擇本次使用的 provider / model
+
 ## 整合矩陣
 
 | 類型 | 外部系統 | 在平台中的角色 | 內部抽象方向 |

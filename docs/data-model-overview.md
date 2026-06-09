@@ -44,6 +44,10 @@ Project
 - AI settings
 - automation settings
 
+### AI settings 說明
+
+AI settings 除了保存預設值，也應保存「可用 provider / model 範圍」，讓後續各階段可在允許範圍內動態選擇。
+
 ## 3. Room
 
 ### 角色
